@@ -1,0 +1,3 @@
+Android EditText is a subclass of Android Textview which allows a user to type either single or multi line text into the text field. When user touches the text field, a keyboard automatically pops up to type the text. Here, I’ve also created a demo on [How to Implement Android EditText For Creating App User Interface](https://www.spaceotechnologies.com/implement-android-edittext-example/). 
+
+If you face any issue implementing it, you can contact me for help. Also, if you want to implement this feature in your Android App and looking to [Hire Android App Development Company](http://www.spaceotechnologies.com/android-app-development/) to help you, then you can contact Space-O Technologies for the same.
